@@ -48,7 +48,7 @@
 <div>Block</div>
 ```
 
-## 🔲 Semantic Tags
+## 📚 Semantic Tags
 
 ![semantic-layout](https://i.imgur.com/vCaSxAS.png)
 
@@ -70,7 +70,7 @@
 
 > บน VSCode สามารถกดปุ่ม `Ctrl + /` หรือ `Ctrl + ฝ` เพื่อสร้าง Comment tag อย่างรวดเร็วได้
 
-## 🟠 กำหนด Title และ Favicon
+## 📌 กำหนด Title และ Favicon
 
 ![title-and-favicon](https://i.imgur.com/Ja2oTBC.jpg)
 
